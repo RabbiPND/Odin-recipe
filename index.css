@@ -1,0 +1,40 @@
+body{
+    font-family: 'Orbitron', sans-serif;
+    background-image: url("front.png");
+    background-size: cover;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    border: 1px solid rgb(204, 199, 199);
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(237, 155, 47); 
+    background: rgba(255, 255, 255, 0.929);
+    border-radius: 50px;
+}
+
+#logo{
+    width: 200px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(37, 34, 34);
+}
+
+#B:hover{
+    font-size: 50px;
+}
+
+#F:hover{
+    font-size: 50px;
+}
+
+#H:hover{
+    font-size: 50px;
+}
